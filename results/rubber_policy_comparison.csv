@@ -1,0 +1,10 @@
+policy,n,all,RHP,LHP,pct_helped
+per-pitcher optimum (oracle),438,0.218,0.194,0.277,96.3
+all to third base (max feasible),438,0.134,0.136,0.128,74.2
+all to first base (max feasible),438,-0.061,-0.106,0.049,32.4
+"arm side (RHP->3B, LHP->1B)",438,0.111,0.136,0.049,68.7
+"glove side (RHP->1B, LHP->3B)",438,-0.038,-0.106,0.128,37.9
+stay put,438,0,0,0,0
+"adaptive: toward the batter (3B vs RHH, 1B vs LHH)",438,0.137,0.114,0.193,69.6
+adaptive: away from the batter,438,-0.063,-0.083,-0.016,32.9
+adaptive: per-side optimum (oracle),438,0.275,0.245,0.351,100

@@ -1,0 +1,13 @@
+# raw video frames, Statcast pulls, label packs and model bundles are not tracked
+data/*
+!data/rubber/
+data/rubber/*
+!data/rubber/README.md
+*.rds
+*.mp4
+*.jpg
+__pycache__/
+.venv*/
+runs/
+yolo11*.pt
+.DS_Store

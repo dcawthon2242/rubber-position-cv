@@ -1,0 +1,9 @@
+# Python 3.11+ (developed on 3.14, Apple Silicon / MPS)
+numpy>=2.0
+opencv-python-headless>=4.10
+torch>=2.4
+ultralytics>=8.3
+requests>=2.32
+imageio-ffmpeg>=0.5
+matplotlib>=3.9
+# R (>= 4.3): data.table, lightgbm, jsonlite
